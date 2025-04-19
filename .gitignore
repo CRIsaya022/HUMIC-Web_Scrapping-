@@ -1,0 +1,5 @@
+# Ignore all files in results directory
+results/*
+
+# But keep the results directory itself
+!results/.gitkeep
