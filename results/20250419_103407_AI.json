@@ -1,0 +1,31 @@
+{
+  "topic": "AI",
+  "timestamp": "2025-04-19T10:34:07.815148",
+  "results": [
+    {
+      "title": "OpenAI",
+      "url": "https://openai.com/",
+      "description": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission."
+    },
+    {
+      "title": "Gemini",
+      "url": "https://gemini.google.com/",
+      "description": "Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exactly what you&#x27;re looking for."
+    },
+    {
+      "title": "Perplexity AI",
+      "url": "https://www.perplexity.ai/",
+      "description": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question."
+    },
+    {
+      "title": "Google AI - How we're making AI helpful for everyone",
+      "url": "https://ai.google",
+      "description": "Discover how Google AI is committed to enriching knowledge, solving complex challenges and helping people grow by building useful AI tools and technologies."
+    },
+    {
+      "title": "What does a future where AI agents rule the internet look like? #TEDTalks - YouTube",
+      "url": "https://www.youtube.com/watch?v=bxbQkaIB8PA",
+      "description": "The AI revolution is here to stay, says Sam Altman, the CEO of OpenAI. In a probing, live conversation with head of TED Chris Anderson, Altman discusses the ..."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Algorithms",
+  "timestamp": "2025-04-19T11:47:32.040917",
+  "results": [
+    {
+      "title": "Algorithms, Part I",
+      "url": "https://www.coursera.org/learn/algorithms-part1",
+      "description": "Offered by Princeton University. This course covers the fundamentals of data structures and algorithms, including sorting algorithms, queues, and more."
+    },
+    {
+      "title": "Algorithms",
+      "url": "https://www.coursera.org/specializations/algorithms",
+      "description": "Offered by Stanford University. Learn to think like a computer scientist by studying algorithm design and analysis."
+    },
+    {
+      "title": "Algorithms, Part II",
+      "url": "https://www.coursera.org/learn/algorithms-part2",
+      "description": "Offered by Princeton University. This course builds on the concepts covered in Algorithms, Part I, focusing on graph processing and string processing algorithms."
+    },
+    {
+      "title": "Intermediate Machine Learning",
+      "url": "https://www.codecademy.com/learn/paths/intermediate-machine-learning-skill-path",
+      "description": "Discover what you will learn in Intermediate Machine Learning! Explore supervised learning algorithms like Naive Bayes, Support Vector Machines, and Linear Discriminant Analysis."
+    },
+    {
+      "title": "Algorithms",
+      "url": "https://www.khanacademy.org/computing/computer-science/algorithms",
+      "description": "A comprehensive introduction to algorithms including sorting, searching, and optimization problems, providing a strong foundation in computer science principles."
+    }
+  ]
+}

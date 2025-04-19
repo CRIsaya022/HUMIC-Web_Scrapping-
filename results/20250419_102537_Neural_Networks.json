@@ -1,0 +1,31 @@
+{
+  "topic": "Neural Networks",
+  "timestamp": "2025-04-19T10:25:37.758521",
+  "results": [
+    {
+      "title": "Neural network (machine learning) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neural_network_(machine_learning)",
+      "description": "A neural network consists of connected units or nodes called artificial neurons, which loosely model the neurons in the brain. Artificial neuron models that mimic biological neurons more closely have also been recently investigated and shown to significantly improve performance."
+    },
+    {
+      "title": "What is a Neural Network? | IBM",
+      "url": "https://www.ibm.com/think/topics/neural-networks",
+      "description": "A neural network is a machine learning program, or model, that makes decisions in a manner similar to the human brain, by using processes that mimic the way biological neurons work together to identify phenomena, weigh options and arrive at conclusions."
+    },
+    {
+      "title": "Explained: Neural networks | MIT News | Massachusetts Institute of Technology",
+      "url": "https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414",
+      "description": "\u201cDeep learning,\u201d the machine-learning technique behind the best-performing artificial-intelligence systems of the past decade, is really a revival of the 70-year-old concept of neural networks."
+    },
+    {
+      "title": "Neural Networks | Journal | ScienceDirect.com by Elsevier",
+      "url": "https://www.sciencedirect.com/journal/neural-networks",
+      "description": "Read the latest articles of Neural Networks at ScienceDirect.com, Elsevier\u2019s leading platform of peer-reviewed scholarly literature."
+    },
+    {
+      "title": "Neural networks | Machine Learning | Google for Developers",
+      "url": "https://developers.google.com/machine-learning/crash-course/neural-networks",
+      "description": "This course module teaches the basics of neural networks: the key components of neural network architectures (nodes, hidden layers, activation functions), how neural network inference is performed, how neural networks are trained using backpropagation, and how neural networks can be used for ..."
+    }
+  ]
+}
